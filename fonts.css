@@ -1,0 +1,45 @@
+@font-face {
+   font-family: Futura New;
+   src: local('Futura New'),
+   url(fonts/FuturaNew/Light/FuturaNewLight-Reg.eot),
+   url(fonts/FuturaNew/Light/FuturaNewLight-Reg.ttf),
+   url(fonts/FuturaNew/Light/FuturaNewLight-Reg.woff),
+   url(fonts/FuturaNew/Light/FuturaNewLight-Reg.woff2);
+   font-weight: 300;
+}
+@font-face {
+   font-family: Futura New;
+   src: local('Futura New'),
+   url(fonts/FuturaNew/Normal/FuturaNewBook-Reg.eot),
+   url(fonts/FuturaNew/Normal/FuturaNewBook-Reg.ttf),
+   url(fonts/FuturaNew/Normal/FuturaNewBook-Reg.woff),
+   url(fonts/FuturaNew/Normal/FuturaNewBook-Reg.woff2);
+   font-weight: 400;
+}
+@font-face {
+   font-family: Futura New;
+   src: local('Futura New'),
+   url(fonts/FuturaNew/Medium/FuturaNewMedium-Reg.eot),
+   url(fonts/FuturaNew/Medium/FuturaNewMedium-Reg.ttf),
+   url(fonts/FuturaNew/Medium/FuturaNewMedium-Reg.woff),
+   url(fonts/FuturaNew/Medium/FuturaNewMedium-Reg.woff2);
+   font-weight: 500;
+}
+@font-face {
+   font-family: Futura New;
+   src: local('Futura New'),
+   url(fonts/FuturaNew/Demi/FuturaNewDemi-Reg.eot),
+   url(fonts/FuturaNew/Demi/FuturaNewDemi-Reg.ttf),
+   url(fonts/FuturaNew/Demi/FuturaNewDemi-Reg.woff),
+   url(fonts/FuturaNew/Demi/FuturaNewDemi-Reg.woff2);
+   font-weight: 600;
+}
+@font-face {
+   font-family: Futura New;
+   src: local('Futura New'),
+   url(fonts/FuturaNew/Bold/FuturaNewBold-Reg.eot),
+   url(fonts/FuturaNew/Bold/FuturaNewBold-Reg.ttf),
+   url(fonts/FuturaNew/Bold/FuturaNewBold-Reg.woff),
+   url(fonts/FuturaNew/Bold/FuturaNewBold-Reg.woff2);
+   font-weight: 700;
+}
